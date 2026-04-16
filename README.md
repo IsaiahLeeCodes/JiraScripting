@@ -84,6 +84,6 @@ accountId
 
 ## Notes
 
-- The script removes users from the Jira groups `jira-software-users` and `jira-users`. Editable from: Line 199
+- The script removes users from the Jira groups `jira-software-users` and `jira-users`. Editable from: `Line 199`
 - If no `accountId` values are provided, the script will exit with an error.
 - The script writes execution logs to a timestamped file by default.
